@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KingsonEjikeme
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Full stack Web projects
 - 📫 How to reach me: kingsonejikeme@gmail.com
 
